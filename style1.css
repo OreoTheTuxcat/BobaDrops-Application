@@ -1,0 +1,16 @@
+h1{
+    color: white;
+    background-color: rgba(137, 43, 226, 0.533);
+    font-family: "consolas", "monospace";
+    font-size: 40px;
+}
+body{
+    background-image: url("triangulum-galaxy.jpg");
+}   
+p{
+    color: white;
+    background-color: rgba(137, 43, 226, 0.533);
+    font-family: "consolas", "monospace";
+    font-size: 25px;
+}
+iimage: url("spaceship.png")
